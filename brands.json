@@ -1,0 +1,99 @@
+[
+ {
+  "slug": "upcoop",
+  "name": "Upcoop",
+  "domain": "up.coop",
+  "wiki": "Upcoop",
+  "role": "client"
+ },
+ {
+  "slug": "swile",
+  "name": "Swile",
+  "domain": "swile.co",
+  "wiki": "Swile",
+  "role": "competitor"
+ },
+ {
+  "slug": "edenred",
+  "name": "Edenred",
+  "domain": "edenred.fr",
+  "wiki": "Edenred",
+  "role": "competitor"
+ },
+ {
+  "slug": "pluxee",
+  "name": "Pluxee",
+  "domain": "pluxee.fr",
+  "wiki": "Pluxee",
+  "role": "competitor"
+ },
+ {
+  "slug": "bimpli",
+  "name": "Bimpli",
+  "domain": "bimpli.com",
+  "role": "competitor"
+ },
+ {
+  "slug": "worklife",
+  "name": "Worklife",
+  "domain": "worklife.io",
+  "role": "competitor"
+ },
+ {
+  "slug": "ekip",
+  "name": "Ekip",
+  "domain": "ekip.app",
+  "role": "competitor"
+ },
+ {
+  "slug": "restoflash",
+  "name": "RestoFlash",
+  "domain": "restoflash.fr",
+  "role": "competitor"
+ },
+ {
+  "slug": "illicado",
+  "name": "Illicado",
+  "domain": "illicado.com",
+  "role": "competitor"
+ },
+ {
+  "slug": "leeto",
+  "name": "Leeto",
+  "domain": "leeto.co",
+  "role": "competitor"
+ },
+ {
+  "slug": "meyclub",
+  "name": "Meyclub",
+  "domain": "meyclub.com",
+  "role": "competitor"
+ },
+ {
+  "slug": "comiteo",
+  "name": "Comitéo",
+  "domain": "comiteo.fr",
+  "role": "competitor"
+ },
+ {
+  "slug": "domiserve",
+  "name": "Domiserve",
+  "domain": "domiserve.com",
+  "role": "competitor"
+ },
+ {
+  "slug": "aide-directe",
+  "name": "Aide versée sur salaire",
+  "role": "generic"
+ },
+ {
+  "slug": "cesu-declaratif",
+  "name": "CESU déclaratif",
+  "role": "generic"
+ },
+ {
+  "slug": "repere",
+  "name": "Repère",
+  "role": "generic"
+ }
+]

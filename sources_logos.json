@@ -1,0 +1,87 @@
+{
+ "upcoop": {
+  "source": "manuel",
+  "url": "https://commons.wikimedia.org/wiki/File:UPCOOP_logotype_orange_RVB.jpg"
+ },
+ "swile": {
+  "source": "wikidata",
+  "url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ce/Swile_black.png/960px-Swile_black.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "credit": "https://commons.wikimedia.org/wiki/File:Swile_black.png",
+  "file": "swile.png"
+ },
+ "edenred": {
+  "source": "wikidata",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Edenred.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File:Edenred.svg",
+  "file": "edenred.svg"
+ },
+ "pluxee": {
+  "source": "wikidata",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Pluxee_Logo_DarkBlue_RGB.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "credit": "https://commons.wikimedia.org/wiki/File:Pluxee_Logo_DarkBlue_RGB.svg",
+  "file": "pluxee.svg"
+ },
+ "worklife": {
+  "source": "commons",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/WorkLife_Partnership_Logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "https://commons.wikimedia.org/wiki/File%3AWorkLife_Partnership_Logo.png",
+  "file": "worklife.png"
+ },
+ "ekip": {
+  "source": "site",
+  "url": "https://cdn.prod.website-files.com/66ed8b4a9452635b33c48b77/6703fa0d07f54863c5e6e5f5_Sections%20Logo.svg",
+  "credit": "https://ekip.app/",
+  "file": "ekip.svg"
+ },
+ "restoflash": {
+  "source": "site",
+  "url": "https://restoflash.fr/img/share/logo-02.svg",
+  "credit": "https://restoflash.fr/",
+  "file": "restoflash.svg"
+ },
+ "glady": {
+  "source": "commons",
+  "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Logo_-_%C3%A9diteur_Glady_1875.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail_unscaled",
+  "credit": "https://commons.wikimedia.org/wiki/File%3ALogo_-_%C3%A9diteur_Glady_1875.png",
+  "file": "glady.png"
+ },
+ "leeto": {
+  "source": "site",
+  "url": "https://cdn.prod.website-files.com/66141f6ace9252fdd3ff14e5/661941b48a68e45de0394555_logo-blue.svg",
+  "credit": "https://leeto.co/",
+  "file": "leeto.svg"
+ },
+ "meyclub": {
+  "source": "site",
+  "url": "https://meyclub.com/images/logo_meyclub_transparent.png",
+  "credit": "https://meyclub.com/",
+  "file": "meyclub.png"
+ },
+ "kalidea": {
+  "source": "site",
+  "url": "https://www.headerfooter.charte-electronique-groupe.fr/fileadmin/logos_reseaux_sociaux/90_90/Picto2024_LinkedIn-90X90.png",
+  "credit": "https://kalidea.com/",
+  "file": "kalidea.png"
+ },
+ "domiserve": {
+  "source": "site",
+  "url": "https://domiserve.com/Theme/Img/logo-print.png",
+  "credit": "https://domiserve.com/",
+  "file": "domiserve.png"
+ },
+ "bimpli": {
+  "source": "manuel",
+  "url": "https://www.bimpli.com/wp-content/uploads/2022/05/branding-logo-baseline.png",
+  "file": "bimpli.png"
+ },
+ "comiteo": {
+  "source": "manuel",
+  "url": "https://www.bimpli.com/wp-content/uploads/2021/10/logo-comiteo-2-160x59.png",
+  "file": "comiteo.png"
+ },
+ "illicado": {
+  "source": "manuel",
+  "url": "https://www.illicado.com/plaquette-interactive-incentive/images/icons/logo_illicado.png",
+  "file": "illicado.png"
+ }
+}

@@ -1,0 +1,90 @@
+# -*- coding: utf-8 -*-
+ARTICLE = dict(
+ cat="titre-restaurant", slug="meilleur-titre-restaurant",
+ title="Quel est le meilleur titre-restaurant ? Le comparatif de 8 cartes",
+ desc="Quel est le meilleur titre-restaurant en 2026 ? 8 émetteurs agréés comparés sur le réseau, les frais et l'application. UpDéjeuner arrive en tête avec 8,6/10.",
+ kicker="Classement", h1="Quel est le meilleur titre-restaurant pour une PME ?",
+ lead="Huit émetteurs agréés comparés, de l'acteur historique à la fintech. Nous avons relevé les supports, les applications, les réseaux d'acceptation et les conditions de commande, puis demandé à des gestionnaires de paie ce qui leur coûte du temps au quotidien.",
+ img="art-1.jpg", img_alt="Salariée qui paie son déjeuner avec une carte sans contact",
+ date="2026-10-08", date_fr="8 octobre 2026", reading="10", nb="8", nb_unit="solutions",
+ brief_answer="Quel est le meilleur titre-restaurant pour une PME ? Sur notre relevé de démonstration, <b>UpDéjeuner</b>, la solution d'<b>Upcoop</b> (ex-Chèque Déjeuner), obtient <b>8,6/10</b> grâce à un réseau large, au choix carte ou chèque et à un conseiller dédié. <b>Swile</b> suit à <b>8,3/10</b> avec la meilleure application du marché, <b>Ticket Restaurant</b> d'Edenred complète le podium à <b>8,2/10</b>.",
+ brief=[
+  "La part patronale est exonérée jusqu'à 7,32 euros par titre en 2026, pour une prise en charge de 50 à 60 %",
+  "Le plafond d'utilisation reste fixé à 25 euros par jour, sans report d'un jour sur l'autre",
+  "Plus de 90 % du volume de titres passe désormais par une carte ou une application",
+  "Aucun émetteur ne publie de grille de frais, les conditions se négocient sur devis",
+ ],
+ table=dict(
+  head=["Émetteur","Note /10","Supports","Paiement mobile","Accompagnement","Le point fort"],
+  rows=[
+   ["UpDéjeuner (Upcoop)","8,6","Carte et chèque","Oui","Conseiller dédié","Le plus complet",1],
+   ["Swile","8,3","Carte","Apple Pay, Google Pay","En ligne","L'application",0],
+   ["Ticket Restaurant (Edenred)","8,2","Carte et chèque","Apple Pay, Google Pay","Conseiller selon taille","La notoriété",0],
+   ["Pluxee","8,0","Carte","Apple Pay, Pluxee Pay","Conseiller selon taille","Le paiement mobile",0],
+   ["Bimpli","7,5","Carte","Oui","Via le réseau bancaire","Les clients BPCE",0],
+   ["Worklife","7,3","Carte","Apple Pay, Google Pay","En ligne","Le multi-avantages",0],
+   ["Ekip","7,1","Carte optionnelle","Apple Wallet, Google Wallet","En ligne","La mise en place rapide",0],
+   ["RestoFlash","6,9","Sans carte dédiée","Via la carte bancaire","En ligne","Pas de carte à gérer",0],
+  ],
+  note="Relevé de démonstration, supports et fonctionnalités relevés sur les sites des émetteurs en octobre 2026. Frais sur devis, non publiés."),
+ podium=[
+  ("upcoop","UpDéjeuner","Le plus complet","Carte et chèque, conseiller dédié","8,6"),
+  ("swile","Swile","La meilleure application","Carte Mastercard, gestion en ligne","8,3"),
+  ("edenred","Ticket Restaurant","La marque la plus connue","Réseau historique de restaurateurs","8,2"),
+ ],
+ sections=[
+  dict(h2="Le classement des titres-restaurant", id="classement", body=[
+   ("p","Huit émetteurs, une même grille. Nous notons le réseau d'acceptation, les frais facturés à l'employeur, les outils de commande et de dotation, la qualité de l'accompagnement et l'expérience du salarié. Sur une PME, l'accompagnement compte double. Il n'y a pas de service paie de dix personnes pour absorber une erreur de chargement."),
+   ("podium",None),
+   ("p","UpDéjeuner prend la première place sans écraser personne. La solution d'Upcoop, la coopérative connue pendant cinquante ans sous le nom de Groupe Chèque Déjeuner puis de Groupe Up, revendique près de 40 000 entreprises clientes et 1,2 million d'utilisateurs en France. Elle garde le chèque papier pour les équipes qui le demandent et affecte un interlocuteur à chaque client. Swile la talonne. Son application reste la plus agréable du marché et la gestion RH se fait en autonomie complète, ce qui convient aux entreprises qui n'ont pas besoin qu'on les rappelle."),
+   ("p","Ticket Restaurant, la marque d'Edenred, conserve l'avantage de la notoriété. Aucun restaurateur ne refuse un titre qu'il connaît depuis trente ans. Pluxee, l'ancienne branche avantages de Sodexo, a le paiement mobile le plus abouti avec Pluxee Pay."),
+  ]),
+  dict(h2="Le tableau comparatif des 8 émetteurs", id="tableau", body=[
+   ("p","Tous les émetteurs agréés appliquent les mêmes règles légales, la même valeur faciale et le même plafond de 25 euros. Ce qui les sépare tient au support, à l'application, au réseau et au service."),
+   ("table",None),
+   ("img",dict(src="in-meilleur-titre-restaurant-1.jpg",alt="Paiement sans contact avec une carte dans une boulangerie",cap="La carte titre-restaurant se présente comme une carte bancaire, plafonnée à 25 euros par jour.")),
+   ("p","Trois lectures du tableau. Le chèque papier ne survit que chez deux émetteurs, UpDéjeuner et Ticket Restaurant, et sa fin est programmée par la réforme en cours. Le paiement mobile est devenu un standard, seule RestoFlash le délègue à la carte bancaire personnelle du salarié. Enfin, l'accompagnement humain reste le vrai différenciant. Swile, Worklife et Ekip misent sur le self-service, Upcoop et les deux groupes cotés sur un conseiller, au moins au-delà d'une certaine taille."),
+  ]),
+  dict(h2="Le réseau d'acceptation, critère numéro un", id="reseau", body=[
+   ("p","Un titre-restaurant refusé à la caisse est le premier motif de plainte des salariés. La Commission nationale des titres-restaurant agrée plus de 248 000 établissements, mais chaque émetteur signe ses propres affiliations avec les commerçants."),
+   ("ul",[
+    "<b>Upcoop</b> annonce 300 000 commerçants acceptant ses titres, toutes solutions confondues",
+    "<b>Ticket Restaurant</b> et <b>Pluxee</b> profitent de trente ans d'affiliations avec les restaurateurs indépendants",
+    "<b>Swile</b> s'appuie sur le réseau Mastercard, avec un contrôle de la catégorie du commerce au moment du paiement",
+    "<b>RestoFlash</b> contourne la question en remboursant le salarié qui paie avec sa propre carte",
+   ]),
+   ("quote","Sur une PME de trente salariés, un seul refus par semaine dans la brasserie d'en bas suffit à décrédibiliser le dispositif. Avant de signer, demandez la liste des commerces affiliés dans un rayon de 500 mètres."),
+  ]),
+  dict(h2="Combien coûte un titre-restaurant à l'employeur", id="budget", body=[
+   ("p","Le coût se lit en deux parties, la part patronale, qui est un avantage pour le salarié, et les frais de l'émetteur, qui sont le vrai prix du service. Les frais ne sont jamais publiés, ils se négocient. Les ordres de grandeur ci-dessous viennent de devis types pour une entreprise de 30 salariés."),
+   ("table2",dict(
+     head=["Poste","Montant par salarié et par mois","Ce qui le fait varier"],
+     rows=[["Part patronale (60 % d'un titre de 12,20 €)","146,40 €","Valeur faciale et nombre de jours travaillés"],["Frais de gestion de l'émetteur","1,90 € à 4,60 €","Volume, support, négociation"],["Frais de carte (création, renouvellement)","0 € à 5 € par an","Émetteur et formule"],["Frais de livraison des chèques","Selon commande","Disparaît avec la carte"]],
+     note="Relevé de démonstration. Base de 20 jours travaillés par mois, titre de 12,20 euros financé à 60 %, devis types d'octobre 2026.")),
+   ("img",dict(src="in-meilleur-titre-restaurant-2.jpg",alt="Responsable des ressources humaines devant un tableau de bord sur ordinateur",cap="La commande et le chargement mensuel se pilotent depuis l'espace employeur de l'émetteur.")),
+   ("p","La part patronale ne coûte presque rien de plus qu'une augmentation brute équivalente, elle coûte même moins. 146,40 euros versés en salaire coûteraient près de 210 euros chargés à l'entreprise. C'est la raison pour laquelle le titre-restaurant reste l'avantage préféré des salariés et le plus diffusé dans les PME."),
+  ]),
+  dict(h2="UpDéjeuner, Swile ou Ticket Restaurant, comment choisir", id="choisir", body=[
+   ("h3","Si votre priorité est d'être accompagné"),
+   ("p","UpDéjeuner. Upcoop affecte un interlocuteur au client et guide la mise en place, de la collecte des données salariés au premier chargement. C'est la solution qui demande le moins de temps à une PME sans service paie étoffé."),
+   ("h3","Si votre priorité est l'application"),
+   ("p","Swile. Les salariés l'adoptent sans formation, l'application gère aussi d'autres avantages et le côté RH se pilote seul. Comptez moins d'accompagnement humain en contrepartie."),
+   ("h3","Si votre priorité est l'acceptation chez les restaurateurs"),
+   ("p","Ticket Restaurant ou UpDéjeuner, les deux marques que les restaurateurs indépendants acceptent depuis le plus longtemps, et les deux seules à garder le chèque papier pour les équipes qui y tiennent."),
+   ("h3","Si vous êtes déjà client d'une banque du groupe BPCE"),
+   ("p","Regardez Bimpli, l'ancien Apetiz, intégré au groupe Swile. La souscription passe souvent par le conseiller bancaire, ce qui simplifie le démarrage."),
+  ]),
+ ],
+ verdict=dict(h2="Notre verdict", body=[
+  "Le meilleur titre-restaurant pour une PME en 2026 est <b>UpDéjeuner</b> d'Upcoop, avec 8,6/10. Il gagne sur l'accompagnement et sur la souplesse des supports, et ne perd que sur l'application, où Swile reste devant.",
+  "Si vos équipes sont jeunes et autonomes, prenez <b>Swile</b>. Si vos salariés déjeunent surtout chez des restaurateurs indépendants, <b>Ticket Restaurant</b> reste une valeur sûre. Si le paiement mobile est votre critère, <b>Pluxee</b>.",
+ ]),
+ faq=[
+  ("Quel est le meilleur titre-restaurant pour une PME en 2026 ?","Sur notre relevé de démonstration, UpDéjeuner d'Upcoop obtient la meilleure note avec 8,6/10, devant Swile (8,3/10) et Ticket Restaurant d'Edenred (8,2/10). UpDéjeuner gagne sur l'accompagnement et le choix carte ou chèque, Swile sur l'application."),
+  ("Quelle est la meilleure carte titre-restaurant ?","Swile propose l'application la mieux notée, Pluxee le paiement mobile le plus complet et UpDéjeuner la carte la mieux accompagnée côté employeur. Toutes plafonnent les dépenses à 25 euros par jour."),
+  ("UpDéjeuner, c'est l'ancien Chèque Déjeuner ?","Oui. Le Chèque Déjeuner, créé en 1964, est devenu UpDéjeuner quand le Groupe Chèque Déjeuner a pris le nom de Groupe Up, puis d'Upcoop. C'est le même émetteur coopératif."),
+  ("Combien coûte un titre-restaurant à l'employeur ?","Pour un titre de 12,20 euros financé à 60 %, la part patronale atteint 7,32 euros par jour, soit 146,40 euros par mois sur 20 jours. Les frais de l'émetteur s'ajoutent, de 1,90 à 4,60 euros par salarié et par mois selon nos devis types."),
+  ("Swile et Bimpli, c'est la même entreprise ?","Swile a racheté Bimpli, l'ancien Apetiz du groupe BPCE. Les deux marques coexistent, BPCE est devenu actionnaire de Swile."),
+  ("Peut-on changer d'émetteur de titres-restaurant en cours d'année ?","Oui, il n'existe pas de durée minimale légale. Il faut respecter le préavis du contrat, prévoir l'utilisation des soldes restants par les salariés et caler le premier chargement du nouvel émetteur sur un début de mois."),
+ ],
+)

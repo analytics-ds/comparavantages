@@ -1,0 +1,368 @@
+{
+ "hero-bg.jpg": {
+  "q": "colleagues lunch together office",
+  "w": 2400,
+  "h": 1600,
+  "alt": "Collègues qui déjeunent ensemble en terrasse"
+ },
+ "cat-titre-restaurant.jpg": {
+  "q": "colleagues lunch restaurant",
+  "w": 760,
+  "h": 720,
+  "alt": "Salariés qui déjeunent ensemble au restaurant"
+ },
+ "cat-titre-restaurant-hero.jpg": {
+  "q": "people eating lunch restaurant",
+  "w": 2000,
+  "h": 900,
+  "alt": "Salariés qui déjeunent ensemble au restaurant"
+ },
+ "cat-cartes-cadeaux.jpg": {
+  "q": "woman holding wrapped gift",
+  "w": 760,
+  "h": 720,
+  "alt": "Paquets cadeaux posés sur un bureau"
+ },
+ "cat-cartes-cadeaux-hero.jpg": {
+  "q": "gift boxes office desk",
+  "w": 2000,
+  "h": 900,
+  "alt": "Paquets cadeaux posés sur un bureau"
+ },
+ "cat-avantages-salaries.jpg": {
+  "q": "business team meeting",
+  "w": 760,
+  "h": 720,
+  "alt": "Équipe en réunion dans un bureau lumineux"
+ },
+ "cat-avantages-salaries-hero.jpg": {
+  "q": "business team meeting office",
+  "w": 2000,
+  "h": 900,
+  "alt": "Équipe en réunion dans un bureau lumineux"
+ },
+ "cat-cesu.jpg": {
+  "q": "home care elderly woman",
+  "w": 760,
+  "h": 720,
+  "alt": "Aide à domicile auprès d'une personne âgée"
+ },
+ "cat-cesu-hero.jpg": {
+  "q": "home care elderly woman",
+  "w": 2000,
+  "h": 900,
+  "alt": "Aide à domicile auprès d'une personne âgée"
+ },
+ "sub-carte.jpg": {
+  "q": "contactless card payment",
+  "w": 200,
+  "h": 200,
+  "alt": "Paiement sans contact"
+ },
+ "sub-pme.jpg": {
+  "q": "small business team",
+  "w": 200,
+  "h": 200,
+  "alt": "Petite équipe"
+ },
+ "sub-bureau.jpg": {
+  "q": "open space office",
+  "w": 200,
+  "h": 200,
+  "alt": "Open space"
+ },
+ "sub-teletravail.jpg": {
+  "q": "working from home laptop",
+  "w": 200,
+  "h": 200,
+  "alt": "Télétravail"
+ },
+ "sub-frais.jpg": {
+  "q": "calculator invoice desk",
+  "w": 200,
+  "h": 200,
+  "alt": "Calculatrice et facture"
+ },
+ "sub-commercant.jpg": {
+  "q": "bakery counter cashier",
+  "w": 200,
+  "h": 200,
+  "alt": "Comptoir de boulangerie"
+ },
+ "sub-urssaf.jpg": {
+  "q": "payroll documents desk",
+  "w": 200,
+  "h": 200,
+  "alt": "Documents de paie"
+ },
+ "sub-noel.jpg": {
+  "q": "christmas gifts office",
+  "w": 200,
+  "h": 200,
+  "alt": "Cadeaux de Noël"
+ },
+ "sub-carte-cadeau.jpg": {
+  "q": "gift card hand",
+  "w": 200,
+  "h": 200,
+  "alt": "Carte cadeau"
+ },
+ "sub-cheque.jpg": {
+  "q": "gift voucher envelope",
+  "w": 200,
+  "h": 200,
+  "alt": "Chèque cadeau"
+ },
+ "sub-naissance.jpg": {
+  "q": "newborn baby feet",
+  "w": 200,
+  "h": 200,
+  "alt": "Pieds de nouveau-né"
+ },
+ "sub-cse.jpg": {
+  "q": "employees meeting table",
+  "w": 200,
+  "h": 200,
+  "alt": "Réunion de CSE"
+ },
+ "sub-affaires.jpg": {
+  "q": "corporate gift basket",
+  "w": 200,
+  "h": 200,
+  "alt": "Coffret cadeau d'affaires"
+ },
+ "sub-velo.jpg": {
+  "q": "bike commuter city",
+  "w": 200,
+  "h": 200,
+  "alt": "Vélo en ville"
+ },
+ "sub-culture.jpg": {
+  "q": "theater audience",
+  "w": 200,
+  "h": 200,
+  "alt": "Salle de spectacle"
+ },
+ "sub-sport.jpg": {
+  "q": "gym workout woman",
+  "w": 200,
+  "h": 200,
+  "alt": "Salle de sport"
+ },
+ "sub-billetterie.jpg": {
+  "q": "concert tickets hand",
+  "w": 200,
+  "h": 200,
+  "alt": "Billets de concert"
+ },
+ "sub-ecesu.jpg": {
+  "q": "smartphone payment app",
+  "w": 200,
+  "h": 200,
+  "alt": "Paiement sur smartphone"
+ },
+ "sub-garde.jpg": {
+  "q": "nanny playing child",
+  "w": 200,
+  "h": 200,
+  "alt": "Garde d'enfant"
+ },
+ "sub-aidant.jpg": {
+  "q": "caregiver elderly man",
+  "w": 200,
+  "h": 200,
+  "alt": "Aidant et personne âgée"
+ },
+ "sub-menage.jpg": {
+  "q": "cleaning lady home",
+  "w": 200,
+  "h": 200,
+  "alt": "Ménage à domicile"
+ },
+ "sub-scolaire.jpg": {
+  "q": "tutor helping student",
+  "w": 200,
+  "h": 200,
+  "alt": "Soutien scolaire"
+ },
+ "art-8.jpg": {
+  "q": "small business team smiling",
+  "w": 1300,
+  "h": 860,
+  "alt": "Petite équipe souriante dans un bureau de PME"
+ },
+ "in-avantages-exoneres-pme-1.jpg": {
+  "q": "cyclist arriving office",
+  "w": 1200,
+  "h": 700,
+  "alt": "Cycliste qui arrive au bureau à vélo"
+ },
+ "in-avantages-exoneres-pme-2.jpg": {
+  "q": "manager talking employee office",
+  "w": 1200,
+  "h": 700,
+  "alt": "Dirigeant de PME en discussion avec une salariée"
+ },
+ "art-7.jpg": {
+  "q": "employee smartphone app office",
+  "w": 1300,
+  "h": 860,
+  "alt": "Salarié qui consulte une application d'avantages sur son téléphone au bureau"
+ },
+ "in-meilleure-plateforme-avantages-1.jpg": {
+  "q": "phone contactless payment shop",
+  "w": 1200,
+  "h": 700,
+  "alt": "Paiement sans contact avec un téléphone dans un commerce"
+ },
+ "in-meilleure-plateforme-avantages-2.jpg": {
+  "q": "two women talking office laptop",
+  "w": 1200,
+  "h": 700,
+  "alt": "Responsable RH qui présente un tableau de bord à une collègue"
+ },
+ "art-6.jpg": {
+  "q": "christmas gifts office tree",
+  "w": 1300,
+  "h": 860,
+  "alt": "Cadeaux de Noël emballés sous un sapin dans un bureau"
+ },
+ "in-cheques-cadeaux-noel-1.jpg": {
+  "q": "christmas card gift desk",
+  "w": 1200,
+  "h": 700,
+  "alt": "Enveloppe de vœux et cadeau posés sur un bureau"
+ },
+ "in-cheques-cadeaux-noel-2.jpg": {
+  "q": "office christmas party team",
+  "w": 1200,
+  "h": 700,
+  "alt": "Équipe réunie pour un pot de fin d'année au bureau"
+ },
+ "art-5.jpg": {
+  "q": "woman holding gift card smiling",
+  "w": 1300,
+  "h": 860,
+  "alt": "Carte cadeau glissée dans une enveloppe sur un bureau"
+ },
+ "in-meilleure-carte-cadeau-cse-1.jpg": {
+  "q": "woman paying clothing store",
+  "w": 1200,
+  "h": 700,
+  "alt": "Femme qui paie en caisse dans une boutique de vêtements"
+ },
+ "in-meilleure-carte-cadeau-cse-2.jpg": {
+  "q": "committee meeting table",
+  "w": 1200,
+  "h": 700,
+  "alt": "Élus de CSE en réunion autour d'une table"
+ },
+ "art-10.jpg": {
+  "q": "nanny arriving family home",
+  "w": 1300,
+  "h": 860,
+  "alt": "Parent qui accueille une nounou à la porte de la maison"
+ },
+ "in-cesu-prefinance-entreprise-1.jpg": {
+  "q": "woman ironing living room",
+  "w": 1200,
+  "h": 700,
+  "alt": "Femme qui fait du repassage dans un salon lumineux"
+ },
+ "in-cesu-prefinance-entreprise-2.jpg": {
+  "q": "woman typing laptop home",
+  "w": 1200,
+  "h": 700,
+  "alt": "Responsable RH qui renseigne un formulaire en ligne"
+ },
+ "art-9.jpg": {
+  "q": "caregiver cooking elderly woman",
+  "w": 1300,
+  "h": 860,
+  "alt": "Aide à domicile qui prépare un repas avec une personne âgée"
+ },
+ "in-meilleur-cesu-prefinance-1.jpg": {
+  "q": "nanny playing boy home",
+  "w": 1200,
+  "h": 700,
+  "alt": "Garde d'enfant qui joue avec un petit garçon à la maison"
+ },
+ "in-meilleur-cesu-prefinance-2.jpg": {
+  "q": "tutor teaching teenager home",
+  "w": 1200,
+  "h": 700,
+  "alt": "Étudiante qui donne un cours de soutien scolaire à un collégien"
+ },
+ "art-4.jpg": {
+  "q": "accountant spreadsheet laptop",
+  "w": 1300,
+  "h": 860,
+  "alt": "Responsable financier qui vérifie un budget sur tableur"
+ },
+ "in-cout-employeur-1.jpg": {
+  "q": "payslips pen desk",
+  "w": 1200,
+  "h": 700,
+  "alt": "Bulletins de paie et stylo posés sur un bureau"
+ },
+ "in-cout-employeur-2.jpg": {
+  "q": "coffee break office",
+  "w": 1200,
+  "h": 700,
+  "alt": "Deux collègues qui discutent autour d'un café"
+ },
+ "art-1.jpg": {
+  "q": "woman paying card cafe",
+  "w": 1300,
+  "h": 860,
+  "alt": "Salariée qui paie son déjeuner avec une carte sans contact"
+ },
+ "in-meilleur-titre-restaurant-1.jpg": {
+  "q": "card payment terminal shop",
+  "w": 1200,
+  "h": 700,
+  "alt": "Paiement sans contact avec une carte dans une boulangerie"
+ },
+ "in-meilleur-titre-restaurant-2.jpg": {
+  "q": "woman working laptop office",
+  "w": 1200,
+  "h": 700,
+  "alt": "Responsable des ressources humaines devant un tableau de bord sur ordinateur"
+ },
+ "art-3.jpg": {
+  "q": "small team lunch office kitchen",
+  "w": 1300,
+  "h": 860,
+  "alt": "Petite équipe qui déjeune dans une cuisine de bureau"
+ },
+ "in-petite-entreprise-1.jpg": {
+  "q": "entrepreneur filling form laptop",
+  "w": 1200,
+  "h": 700,
+  "alt": "Dirigeant de petite entreprise qui remplit un formulaire sur ordinateur portable"
+ },
+ "in-petite-entreprise-2.jpg": {
+  "q": "calculator notebook accounts",
+  "w": 1200,
+  "h": 700,
+  "alt": "Calculatrice et carnet de comptes sur un bureau"
+ },
+ "art-2.jpg": {
+  "q": "restaurant lunch table plates",
+  "w": 1300,
+  "h": 860,
+  "alt": "Quatre cartes de paiement posées sur une table de restaurant"
+ },
+ "in-swile-edenred-pluxee-upcoop-1.jpg": {
+  "q": "man checking payment app phone",
+  "w": 1200,
+  "h": 700,
+  "alt": "Salarié qui consulte une application de paiement sur son téléphone"
+ },
+ "in-swile-edenred-pluxee-upcoop-2.jpg": {
+  "q": "large open space employees",
+  "w": 1200,
+  "h": 700,
+  "alt": "Grand open space avec des salariés au travail"
+ }
+}
